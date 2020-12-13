@@ -1,0 +1,59 @@
+1. Which SQL function is used to count the number of rows in a SQL query?
+a) COUNT()
+b) NUMBER()
+c) SUM()
+d) COUNT(*)
+
+2. Which SQL statement is used to extract data from a database?
+    a. select
+    b. extract
+    c. open
+    d. get
+	
+3. You can add a row using SQL in a database with which of the following?
+    A.	ADD
+    B.	CREATE
+    C.	INSERT
+    D.	MAKE
+
+4. The SQL WHERE clause:
+    A.	limits the column data returned.
+    B.	limits the row data returned.
+    C.	Both A and B are correct.
+    D.	Neither A nor B is correct.
+
+5. Which of the following is the correct order of keywords for SQL SELECT statements?
+    A.	SELECT, FROM, WHERE
+    B.	FROM, WHERE, SELECT
+    C.	WHERE, FROM,SELECT
+    D.	SELECT,WHERE,FROM
+
+6. 	To define what columns should be displayed in an SQL SELECT statement:
+    A.	use FROM to name the source table(s) and list the columns to be shown after SELECT.
+    B.	use USING to name the source table(s) and list the columns to be shown after SELECT.
+    C.	use SELECT to name the source table(s) and list the columns to be shown after USING.
+    D.	use USING to name the source table(s) and list the columns to be shown after WHERE.
+
+7. An algorithm is
+    A.  A machine-learning technique that learns from past experience and adapts itself to new situations
+    B.  A Computational procedure that takes some value as input and produces some value as output
+    C.  The Science of making machines perform tasks that require intelligence when performed by humans
+    D.  None of the above
+
+8. In Machine Learning, classification is
+    A.	A subdivision of a set of examples into a number of classes
+    B.	A measure of the accuracy, of the classification of a concept that is given by a certain theory
+    C.	The task of assigning a classification to a set of examples
+    D.	None of the above
+
+9. A clustering algorithm
+    A.	Groups similar objects that differ significantly from other objects
+    B.	Operates on a database to transform or simplify data to prepare it for a machine-learning algorithm
+    C.	Is a symbolic representation of facts or ideas from which information can potentially be extracted
+    D.	None of the above
+
+10. A heuristic is
+    A.	A set of databases from different vendors, possibly using different database paradigms
+    B.	An approach to a problem that is not guaranteed to work but performs well in most cases
+    C.	Information that is hidden in a database and that cannot be recovered by a simple SQL query.
+    D.	None of the above
