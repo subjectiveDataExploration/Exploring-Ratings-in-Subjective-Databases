@@ -1,0 +1,94 @@
+,Unnamed: 0,Unnamed: 0.1,rest_id,rest_name,city,state,stars,category,RestaurantsPriceRange2,HasTV,RestaurantsTakeOut,RestaurantsDelivery,RestaurantsGoodForGroups,Alcohol,BikeParking,BusinessAcceptsCreditCards,GoodForKids,NoiseLevel,WiFi,RestaurantsAttire,RestaurantsReservations,Caters,OutdoorSeating,Ambience
+0,0,0,91,Ru San's,Charlotte,NC,4.0,Japanese,2,True,True,False,True,u'beer_and_wine',False,True,True,'average',u'no','casual',False,False,True,casual
+1,1,1,79,Heist Brewery,Charlotte,NC,3.5,Nightlife,2,True,True,False,True,u'full_bar',True,True,True,'average',u'free',u'casual',True,True,True,casual
+2,2,2,68,Bang Bang Burgers,Charlotte,NC,4.5,Burgers,2,True,True,False,True,u'beer_and_wine',True,True,True,u'average',u'free',u'casual',False,False,False,casual
+3,3,3,77,Joe's Farm Grill,Gilbert,AZ,4.0, Local Flavor,2,False,True,False,True,'none',True,True,True,u'average',u'free','casual',False,False,True,classy
+4,4,4,37,The Arrogant Butcher,Phoenix,AZ,4.0,American (New),2,True,True,True,True,u'full_bar',True,True,True,u'average',u'free',u'casual',True,False,True,trendy
+5,5,5,49,The King's Kitchen,Charlotte,NC,4.0, American (Traditional),2,True,True,False,True,u'beer_and_wine',True,True,True,u'average',u'free',u'casual',True,True,True,classy
+6,6,6,36,Cabo Fish Taco,Charlotte,NC,4.0, Seafood,2,True,True,False,True,u'full_bar',True,True,True,u'average','free','casual',False,False,True,casual
+7,7,7,41,Cantina 1511,Charlotte,NC,3.5,Nightlife,2,True,True,True,True,'full_bar',True,True,True,u'average',u'free','casual',True,True,True,casual
+8,8,8,63,Mesa Grill,Las Vegas,NV,4.0,Southern,3,True,False,False,True,'full_bar',False,True,False,u'average',u'free','casual',True,False,False,classy
+9,9,9,8,Gangnam Asian BBQ Dining,Las Vegas,NV,4.5,Asian Fusion,2,True,True,True,True,u'beer_and_wine',True,True,True,u'average','free',u'casual',True,True,False,trendy
+10,10,10,4,Yardbird Southern Table & Bar,Las Vegas,NV,4.5, American (New),2,True,True,False,True,u'full_bar',True,True,True,'average','free','casual',True,True,False,casual
+11,11,11,73,Holsteins,Las Vegas,NV,4.0,Nightlife,2,True,True,True,True,u'full_bar',False,True,True,u'average',u'free',u'casual',True,True,False,casual
+12,12,12,16,Basil Thai Cuisine,Charlotte,NC,3.5,Seafood,2,True,True,False,True,u'full_bar',False,True,False,u'average',u'no',u'casual',True,False,False,trendy
+13,13,13,74,The Cowfish Sushi Burger Bar,Charlotte,NC,4.5, Burgers,2,True,True,False,True,u'full_bar',True,True,True,u'average',u'free',u'casual',False,True,True,trendy
+14,14,14,86,Harumi Sushi,Phoenix,AZ,4.5,Japanese,2,True,True,False,False,u'beer_and_wine',True,True,True,u'average',u'free',u'casual',False,True,False,casual
+15,15,15,26,Cafe Monte,Charlotte,NC,4.0, Breakfast & Brunch,2,False,True,False,True,u'full_bar',True,True,True,u'average',u'free',u'casual',True,True,True,classy
+16,16,16,31,New Zealand Cafe,Charlotte,NC,4.0,Seafood,2,True,True,True,False,u'beer_and_wine',True,True,False,u'average',u'no','casual',False,False,True,casual
+17,17,17,13,Postino Arcadia,Phoenix,AZ,4.5, Nightlife,2,False,True,False,True,'beer_and_wine',True,True,True,u'average',u'free','casual',True,True,True,classy
+18,18,18,53,Hash Kitchen,Scottsdale,AZ,4.5,Sandwiches,2,True,True,None,True,u'full_bar',True,True,True,u'average','free','casual',False,True,True,classy
+19,19,19,55,Seoul Food Meat Company,Charlotte,NC,4.0,Barbeque,2,True,True,True,True,u'full_bar',True,True,True,'loud',u'free',u'casual',True,True,True,trendy
+20,20,20,71,Pampas Las Vegas,Las Vegas,NV,3.0,Seafood,3,True,True,True,True,'full_bar',True,True,True,u'average',u'free','casual',True,True,False,classy
+21,21,21,21,The Peppermill Restaurant & Fireside Lounge,Las Vegas,NV,4.0,Nightlife,2,True,True,True,True,'full_bar',True,True,True,u'average','free','casual',False,False,False,classy
+22,22,22,90,Monta Japanese Noodle House,Las Vegas,NV,4.0,Noodles,1,True,True,False,False,u'beer_and_wine',False,True,True,u'average',u'no',u'casual',False,False,False,classy
+23,23,23,6,Flying Biscuit CafÃ©,Charlotte,NC,4.0,Vegetarian,2,False,True,True,True,u'full_bar',True,True,True,u'average',u'free',u'casual',False,True,True,casual
+24,24,24,7,Gordon Ramsay Pub & Grill,Las Vegas,NV,3.5,Nightlife,3,True,False,False,True,u'full_bar',False,True,True,u'average','free',u'casual',True,False,False,trendy
+25,25,25,14,Backyard Taco,Mesa,AZ,4.5,Mexican,1,False,True,False,True,u'none',True,True,True,u'average',u'no',u'casual',False,True,True,casual
+26,26,26,22,Rehab Burger Therapy,Scottsdale,AZ,4.5,Nightlife,2,True,True,False,True,u'full_bar',True,True,True,u'average',u'free',u'casual',False,True,True,casual
+27,27,27,52,Le Village Buffet,Las Vegas,NV,3.0,Sandwiches,2,True,False,False,True,u'beer_and_wine',False,True,True,u'average',u'no','casual',True,False,False,classy
+28,28,28,45,Viva Chicken,Charlotte,NC,4.5,Peruvian,2,False,True,True,True,u'beer_and_wine',True,True,True,u'loud',u'free',u'casual',False,True,True,classy
+29,29,29,56,Bad Daddy's Burger Bar,Charlotte,NC,4.0, Nightlife,2,True,True,False,True,'full_bar',True,True,True,u'average','free','casual',False,True,True,casual
+30,30,30,64,Butters Pancakes & CafÃ©,Scottsdale,AZ,4.5, Waffles,2,False,True,False,True,u'none',True,True,True,u'average',u'no',u'casual',False,False,True,casual
+31,31,31,65,Culinary Dropout,Tempe,AZ,4.0,American (New),2,True,True,False,True,u'full_bar',True,True,True,'loud',u'free','casual',True,True,True,casual
+32,32,32,29,SumoMaya,Scottsdale,AZ,4.0,Mexican,2,True,True,False,True,u'full_bar',True,True,True,'loud','no',u'casual',True,True,True,classy
+33,33,33,5,Bachi Burger,Las Vegas,NV,4.0,Asian Fusion,2,True,True,False,True,u'full_bar',False,True,True,u'average',u'free',u'casual',False,False,True,casual
+34,34,34,81,HEXX kitchen + bar,Las Vegas,NV,4.0,Nightlife,2,True,True,False,True,u'full_bar',False,True,True,u'average','free','casual',True,True,True,classy
+35,35,35,11,Midnight Diner,Charlotte,NC,4.0,Breakfast & Brunch,1,True,True,False,True,u'full_bar',True,True,True,u'loud','no',u'casual',False,True,True,casual
+36,36,36,82,El Dorado Cantina,Las Vegas,NV,4.5,Mexican,2,True,True,True,True,'full_bar',True,True,True,'average','free','casual',True,True,False,classy
+37,37,37,61,Rollin Smoke Barbeque,Las Vegas,NV,4.5,Caterers,2,True,True,True,True,u'none',True,True,True,u'average',u'free',u'casual',False,True,True,casual
+38,38,38,24,Joyride Taco House,Gilbert,AZ,4.0,Bars,2,True,True,True,True,u'full_bar',True,True,True,u'average',u'free',u'casual',True,True,True,casual
+39,39,39,3,Arizona Wilderness Brewing,Gilbert,AZ,4.0,Burgers,2,True,True,False,True,u'beer_and_wine',True,True,True,u'loud',u'free','casual',False,False,True,classy
+40,40,40,25,Nacho Daddy,Las Vegas,NV,4.5,Vegan,2,True,True,True,True,u'full_bar',False,True,True,'average',u'free','casual',True,True,True,casual
+41,41,41,62,Culinary Dropout,Scottsdale,AZ,4.0,American (New),2,True,True,False,True,u'full_bar',True,True,True,u'loud',u'no',u'casual',True,False,True,classy
+42,42,42,51,Burger Bar,Las Vegas,NV,4.0,Burgers,2,True,True,False,True,'full_bar',False,True,True,u'average',u'free','casual',True,False,False,classy
+43,43,43,17,Hash House A Go Go,Las Vegas,NV,4.0,Breakfast & Brunch,2,True,True,False,True,u'full_bar',True,True,True,u'average',u'no',u'casual',False,False,False,casual
+44,44,44,58,"DeFalco's Italian Eatery, Grocery & Deli",Scottsdale,AZ,4.5,Delis,2,True,True,True,True,'beer_and_wine',True,True,True,u'average',u'free','casual',False,True,True,classy
+45,45,45,75,Guy Fieri's Vegas Kitchen,Las Vegas,NV,3.5,Nightlife,2,True,True,False,True,u'full_bar',False,True,True,u'loud',u'no',u'casual',True,False,True,casual
+46,46,46,42,Cravings Buffet,Las Vegas,NV,3.0,Buffets,2,False,True,False,True,'full_bar',True,True,True,u'average',u'no','casual',False,False,False,classy
+47,47,47,15,Cibo,Phoenix,AZ,4.5, Sandwiches,2,True,True,False,True,'beer_and_wine',True,True,True,u'average',u'no','casual',True,False,True,romantic
+48,48,48,47,Citizen Public House,Scottsdale,AZ,4.5,Bars,2,False,True,False,True,u'full_bar',True,True,False,u'loud',u'free',u'casual',True,False,True,trendy
+49,49,49,35,Olive & Ivy,Scottsdale,AZ,4.0,American (Traditional),2,True,True,False,True,'full_bar',True,True,True,u'average',u'free',u'casual',True,False,True,trendy
+50,50,50,89,Earl of Sandwich,Las Vegas,NV,4.5, Food Delivery Services,1,True,True,False,True,'beer_and_wine',True,True,True,'average',u'free','casual',False,True,False,classy
+51,51,51,43,Egg & I,Las Vegas,NV,4.5,American (Traditional),2,True,True,False,True,u'full_bar',True,True,True,u'average',u'free','casual',False,True,True,casual
+52,52,52,28,Mr Mamas,Las Vegas,NV,4.5,Burgers,1,True,True,False,True,'none',True,True,True,'average','free','casual',False,False,False,casual
+53,53,53,76,Mimosa Grill,Charlotte,NC,4.0,Southern,2,True,True,False,True,u'full_bar',True,True,False,u'average','free',u'casual',True,True,True,classy
+54,54,54,40,Stewart Penick's Terrace - Southpark,Charlotte,NC,4.0,American (Traditional),2,True,True,True,True,u'full_bar',True,True,True,u'average',u'free',u'casual',True,True,False,trendy
+55,55,55,69,Ichiza,Las Vegas,NV,4.0,Japanese,2,True,True,False,True,u'full_bar',True,True,True,u'average',u'no','casual',True,False,False,casual
+56,56,56,66,The Parlor,Phoenix,AZ,4.5,Salad,2,True,True,False,True,u'full_bar',True,True,True,u'average',u'free',u'casual',False,True,True,casual
+57,57,57,46,5Church Charlotte,Charlotte,NC,3.5,Nightlife,2,True,True,True,True,u'full_bar',False,True,False,u'average',u'free',u'casual',True,True,False,classy
+58,58,58,50,Pho Kim Long,Las Vegas,NV,3.5,Korean,2,True,True,False,True,'beer_and_wine',False,True,True,u'average',u'no','casual',False,False,False,classy
+59,59,59,32,Tupelo Honey,Charlotte,NC,4.0,Southern,2,True,True,False,True,u'full_bar',True,True,True,u'average',u'free',u'casual',True,False,True,casual
+60,60,60,93,Grand Lux Cafe,Las Vegas,NV,4.0,American (New),2,True,True,False,True,'full_bar',False,True,True,u'average','free','casual',True,False,True,casual
+61,61,61,34,Lux Central,Phoenix,AZ,4.0,Nightlife,2,True,True,True,True,u'full_bar',True,True,False,u'average','free',u'casual',False,False,True,hipster
+62,62,62,1,SUSHISAMBA - Las Vegas,Las Vegas,NV,4.0,Nightlife,3,True,True,True,True,'full_bar',False,True,False,u'loud',u'no',u'casual',True,False,False,classy
+63,63,63,88,Pinky's Westside Grill,Charlotte,NC,4.0,Salad,1,True,True,False,True,u'full_bar',True,True,True,u'average',u'free',u'casual',False,True,True,hipster
+64,64,64,23,Futo Buta,Charlotte,NC,4.0,Asian Fusion,2,True,True,False,True,u'beer_and_wine',True,True,True,u'average',u'free',u'casual',False,False,True,trendy
+65,65,65,38,Barrio CafÃ©,Phoenix,AZ,4.0,Sandwiches,2,True,True,False,True,'full_bar',True,True,True,u'average',u'no','casual',False,True,True,classy
+66,66,66,59,Dandelion Market,Charlotte,NC,4.0, Beer,2,True,True,False,True,u'full_bar',True,True,False,u'average',u'free',u'casual',True,False,False,casual
+67,67,67,33,Gordon Ramsay Steak,Las Vegas,NV,4.0, Steakhouses,4,True,False,False,True,u'full_bar',False,True,False,u'average',u'no',u'dressy',True,False,False,upscale
+68,68,68,85,Tom Colicchio's Craftsteak,Las Vegas,NV,4.0,Cheesesteaks,4,True,True,False,True,'full_bar',False,True,False,u'average',u'free','dressy',True,False,False,classy
+69,69,69,84,The Buffet at Bellagio,Las Vegas,NV,3.5,American (New),3,False,False,False,True,'full_bar',False,True,True,u'average','free','casual',False,False,False,casual
+70,70,70,72,Paco's Tacos and Tequilla,Charlotte,NC,4.0,Bars,2,True,True,False,True,u'full_bar',True,True,True,u'average','free',u'casual',True,True,True,casual
+71,71,71,48,Pizzeria Bianco,Phoenix,AZ,4.0,Sandwiches,2,False,True,False,False,'beer_and_wine',True,True,True,u'average',u'no','casual',True,True,True,casual
+72,72,72,87,St. Francis Restaurant,Phoenix,AZ,4.0,Salad,2,False,True,True,True,u'full_bar',True,True,True,u'average',u'free',u'casual',True,False,True,trendy
+73,73,73,27,Shake Shack,Las Vegas,NV,4.0,Burgers,2,True,True,None,True,'beer_and_wine',False,True,True,'average','no','casual',False,False,True,classy
+74,74,74,30,Matt's Big Breakfast,Phoenix,AZ,4.0, Salad,2,True,True,False,True,u'none',True,True,True,u'loud',u'no',u'casual',False,False,False,casual
+75,75,75,67,Sabor Latin Street Grill,Charlotte,NC,4.5,Latin American,1,False,True,False,True,u'full_bar',True,True,True,u'average','no',u'casual',False,True,True,casual
+76,76,76,92,Lindo Michoacan,Las Vegas,NV,4.0, Mexican,2,True,True,False,True,'full_bar',True,True,True,u'average',u'no','casual',True,True,False,classy
+77,77,77,39,Fahrenheit - Charlotte,Charlotte,NC,3.0,Salad,3,True,True,False,True,u'full_bar',False,True,False,u'average','free',u'casual',True,False,True,classy
+78,78,78,9,Bobby Q,Phoenix,AZ,4.5,Barbeque,2,True,True,True,True,'full_bar',True,True,True,u'average',u'free','casual',True,True,True,classy
+79,79,79,70,Taco Guild,Phoenix,AZ,4.0, Cocktail Bars,2,True,True,False,True,u'full_bar',True,True,True,u'loud',u'free',u'casual',True,True,True,classy
+80,80,80,18,La Santisima Gourmet Taco Shop,Phoenix,AZ,4.0,Cafes,2,False,True,None,True,u'full_bar',False,True,True,u'average',u'no',u'casual',False,True,False,classy
+81,81,81,2,Zada Jane's Corner Cafe,Charlotte,NC,3.5, Sandwiches,2,False,True,False,True,u'full_bar',True,True,True,u'average',u'free','casual',False,True,True,hipster
+82,82,82,44,Good Food on Montford,Charlotte,NC,4.5,Bars,2,True,False,False,True,u'full_bar',True,True,False,u'average',u'no',u'casual',False,False,False,trendy
+83,83,83,60,Paradise Valley Burger Company,Phoenix,AZ,4.5,Burgers,1,True,True,True,True,u'none',True,True,True,u'average',u'no',u'casual',False,True,True,casual
+84,84,84,57,Liberty Market,Gilbert,AZ,4.0,Grocery,2,False,True,False,True,u'full_bar',True,True,True,u'average',u'free',u'casual',False,False,True,casual
+85,85,85,80,Four Peaks Brewing,Tempe,AZ,4.5,Specialty Food,2,True,True,True,True,'full_bar',True,True,True,u'loud','free','casual',True,True,True,casual
+86,86,86,83,The Mission Old Town,Scottsdale,AZ,4.0, Latin American,3,True,True,False,True,u'full_bar',True,True,False,u'average',u'free',u'casual',True,False,True,classy
+87,87,87,54,Hash House A Go Go,Las Vegas,NV,4.0,American (New),2,False,True,True,True,'full_bar',True,True,True,u'average',u'no','casual',True,False,True,classy
+88,88,88,20,Chelsea's Kitchen,Phoenix,AZ,4.0,Breakfast & Brunch,2,True,False,False,True,'full_bar',True,True,True,u'average',u'no','casual',False,False,True,trendy
+89,89,89,10,Mama Ricotta's,Charlotte,NC,4.0,Event Planning & Services,2,True,True,False,True,u'full_bar',True,True,True,u'average','free',u'casual',True,True,True,casual
+90,90,90,78,Giada,Las Vegas,NV,3.5,Italian,3,True,False,False,True,u'full_bar',False,True,True,u'average',u'free','dressy',True,False,False,classy
+91,91,91,19,Midwood Smokehouse,Charlotte,NC,4.5, Barbeque,2,True,True,False,True,u'full_bar',True,True,True,u'average',u'free',u'casual',False,True,True,classy
+92,92,92,12,300 East,Charlotte,NC,4.0,Seafood,2,False,True,False,True,u'full_bar',True,True,True,u'average',u'free','casual',True,False,True,casual
