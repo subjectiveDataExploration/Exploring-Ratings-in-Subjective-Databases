@@ -1,0 +1,944 @@
+,uid,age,gender,occupation,zip,age_group,state,city
+0,1,24,M,technician,85711,Y. Adult,AZ,Tucson
+1,2,53,F,other,94043,M. Adult,CA,Mountain View
+2,3,23,M,writer,32067,Y. Adult,FL,Orange Park
+3,4,24,M,technician,43537,Y. Adult,OH,Maumee
+4,5,33,F,other,15213,Y. Adult,PA,Pittsburgh
+5,6,42,M,executive,98101,M. Adult,WA,Seattle
+6,7,57,M,administrator,91344,M. Adult,CA,Granada Hills
+7,8,36,M,administrator,05201,Y. Adult,VT,Bennington
+8,9,29,M,student,01002,Y. Adult,MA,Amherst
+9,10,53,M,lawyer,90703,M. Adult,CA,Cerritos
+10,11,39,F,other,30329,Y. Adult,GA,Atlanta
+11,12,28,F,other,06405,Y. Adult,CT,Branford
+12,13,47,M,educator,29206,M. Adult,SC,Columbia
+13,14,45,M,scientist,55106,M. Adult,MN,Saint Paul
+14,15,49,F,educator,97301,M. Adult,OR,Salem
+15,16,21,M,entertainment,10309,Y. Adult,NY,Staten Island
+16,17,30,M,programmer,06355,Y. Adult,CT,Mystic
+17,18,35,F,other,37212,Y. Adult,TN,Nashville
+18,19,40,M,librarian,02138,M. Adult,MA,Cambridge
+19,20,42,F,homemaker,95660,M. Adult,CA,North Highlands
+20,21,26,M,writer,30068,Y. Adult,GA,Marietta
+21,22,25,M,writer,40206,Y. Adult,KY,Louisville
+22,23,30,F,artist,48197,Y. Adult,MI,Ypsilanti
+23,24,21,F,artist,94533,Y. Adult,CA,Fairfield
+24,25,39,M,engineer,55107,Y. Adult,MN,Saint Paul
+25,26,49,M,engineer,21044,M. Adult,MD,Columbia
+26,27,40,F,librarian,30030,M. Adult,GA,Decatur
+27,28,32,M,writer,55369,Y. Adult,MN,Osseo
+28,29,41,M,programmer,94043,M. Adult,CA,Mountain View
+29,30,7,M,student,55436,Y. Adult,MN,Minneapolis
+30,31,24,M,artist,10003,Y. Adult,NY,New York
+31,32,28,F,student,78741,Y. Adult,TX,Austin
+32,33,23,M,student,27510,Y. Adult,NC,Carrboro
+33,34,38,F,administrator,42141,Y. Adult,KY,Glasgow
+34,35,20,F,homemaker,42459,Y. Adult,KY,Sturgis
+35,36,19,F,student,93117,Y. Adult,CA,Goleta
+36,37,23,M,student,55105,Y. Adult,MN,Saint Paul
+37,38,28,F,other,54467,Y. Adult,WI,Plover
+38,39,41,M,entertainment,01040,M. Adult,MA,Holyoke
+39,40,38,M,scientist,27514,Y. Adult,NC,Chapel Hill
+40,41,33,M,engineer,80525,Y. Adult,CO,Fort Collins
+41,42,30,M,administrator,17870,Y. Adult,PA,Selinsgrove
+42,43,29,F,librarian,20854,Y. Adult,MD,Potomac
+43,44,26,M,technician,46260,Y. Adult,IN,Indianapolis
+44,45,29,M,programmer,50233,Y. Adult,IA,Redfield
+45,46,27,F,marketing,46538,Y. Adult,IN,Leesburg
+46,47,53,M,marketing,07102,M. Adult,NJ,Newark
+47,48,45,M,administrator,12550,M. Adult,NY,Newburgh
+48,49,23,F,student,76111,Y. Adult,TX,Fort Worth
+49,50,21,M,writer,52245,Y. Adult,IA,Iowa City
+50,51,28,M,educator,16509,Y. Adult,PA,Erie
+51,52,18,F,student,55105,Y. Adult,MN,Saint Paul
+52,53,26,M,programmer,55414,Y. Adult,MN,Minneapolis
+53,54,22,M,executive,66315,Y. Adult,OTHER,OTHER
+54,55,37,M,programmer,01331,Y. Adult,MA,Athol
+55,56,25,M,librarian,46260,Y. Adult,IN,Indianapolis
+56,57,16,M,none,84010,Y. Adult,UT,Bountiful
+57,58,27,M,programmer,52246,Y. Adult,IA,Iowa City
+58,59,49,M,educator,08403,M. Adult,NJ,Longport
+59,60,50,M,healthcare,06472,M. Adult,CT,Northford
+60,61,36,M,engineer,30040,Y. Adult,GA,Cumming
+61,62,27,F,administrator,97214,Y. Adult,OR,Portland
+62,63,31,M,marketing,75240,Y. Adult,TX,Dallas
+63,64,32,M,educator,43202,Y. Adult,OH,Columbus
+64,65,51,F,educator,48118,M. Adult,MI,Chelsea
+65,66,23,M,student,80521,Y. Adult,CO,Fort Collins
+66,67,17,M,student,60402,Y. Adult,IL,Berwyn
+67,68,19,M,student,22904,Y. Adult,VA,Charlottesville
+68,69,24,M,engineer,55337,Y. Adult,MN,Burnsville
+69,70,27,M,engineer,60067,Y. Adult,IL,Palatine
+70,71,39,M,scientist,98034,Y. Adult,WA,Kirkland
+71,72,48,F,administrator,73034,M. Adult,OK,Edmond
+72,73,24,M,student,41850,Y. Adult,OTHER,OTHER
+73,74,39,M,scientist,T8H1N,Y. Adult,OTHER,OTHER
+74,75,24,M,entertainment,08816,Y. Adult,NJ,East Brunswick
+75,76,20,M,student,02215,Y. Adult,MA,Boston
+76,77,30,M,technician,29379,Y. Adult,SC,Union
+77,78,26,M,administrator,61801,Y. Adult,IL,Urbana
+78,79,39,F,administrator,03755,Y. Adult,NH,Hanover
+79,80,34,F,administrator,52241,Y. Adult,IA,Coralville
+80,81,21,M,student,21218,Y. Adult,MD,Baltimore
+81,82,50,M,programmer,22902,M. Adult,VA,Charlottesville
+82,83,40,M,other,44133,M. Adult,OH,North Royalton
+83,84,32,M,executive,55369,Y. Adult,MN,Osseo
+84,85,51,M,educator,20003,M. Adult,DC,Washington
+85,86,26,M,administrator,46005,Y. Adult,OTHER,OTHER
+86,87,47,M,administrator,89503,M. Adult,NV,Reno
+87,88,49,F,librarian,11701,M. Adult,NY,Amityville
+88,89,43,F,administrator,68106,M. Adult,NE,Omaha
+89,90,60,M,educator,78155,Adult,TX,Seguin
+90,91,55,M,marketing,01913,M. Adult,MA,Amesbury
+91,92,32,M,entertainment,80525,Y. Adult,CO,Fort Collins
+92,93,48,M,executive,23112,M. Adult,VA,Midlothian
+93,94,26,M,student,71457,Y. Adult,LA,Natchitoches
+94,95,31,M,administrator,10707,Y. Adult,NY,Tuckahoe
+95,96,25,F,artist,75206,Y. Adult,TX,Dallas
+96,97,43,M,artist,98006,M. Adult,WA,Bellevue
+97,98,49,F,executive,90291,M. Adult,CA,Venice
+98,99,20,M,student,63129,Y. Adult,MO,Saint Louis
+99,100,36,M,executive,90254,Y. Adult,CA,Hermosa Beach
+100,101,15,M,student,05146,Y. Adult,VT,Grafton
+101,102,38,M,programmer,30220,Y. Adult,GA,Grantville
+102,103,26,M,student,55108,Y. Adult,MN,Saint Paul
+103,104,27,M,student,55108,Y. Adult,MN,Saint Paul
+104,105,24,M,engineer,94043,Y. Adult,CA,Mountain View
+105,106,61,M,retired,55125,Adult,MN,Saint Paul
+106,107,39,M,scientist,60466,Y. Adult,IL,Park Forest
+107,108,44,M,educator,63130,M. Adult,MO,Saint Louis
+108,109,29,M,other,55423,Y. Adult,MN,Minneapolis
+109,110,19,M,student,77840,Y. Adult,TX,College Station
+110,111,57,M,engineer,90630,M. Adult,CA,Cypress
+111,112,30,M,salesman,60613,Y. Adult,IL,Chicago
+112,113,47,M,executive,95032,M. Adult,CA,Los Gatos
+113,114,27,M,programmer,75013,Y. Adult,TX,Allen
+114,115,31,M,engineer,17110,Y. Adult,PA,Harrisburg
+115,116,40,M,healthcare,97232,M. Adult,OR,Portland
+116,117,20,M,student,16125,Y. Adult,PA,Greenville
+117,118,21,M,administrator,90210,Y. Adult,CA,Beverly Hills
+118,119,32,M,programmer,67401,Y. Adult,KS,Salina
+119,120,47,F,other,06260,M. Adult,CT,Putnam
+120,121,54,M,librarian,99603,M. Adult,AK,Homer
+121,122,32,F,writer,22206,Y. Adult,VA,Arlington
+122,123,48,F,artist,20008,M. Adult,DC,Washington
+123,124,34,M,student,60615,Y. Adult,IL,Chicago
+124,125,30,M,lawyer,22202,Y. Adult,VA,Arlington
+125,126,28,F,lawyer,20015,Y. Adult,DC,Washington
+126,127,33,M,none,73439,Y. Adult,OK,Kingston
+127,128,24,F,marketing,20009,Y. Adult,DC,Washington
+128,129,36,F,marketing,07039,Y. Adult,NJ,Livingston
+129,130,20,M,none,60115,Y. Adult,IL,Dekalb
+130,131,59,F,administrator,15237,M. Adult,PA,Pittsburgh
+131,132,24,M,other,94612,Y. Adult,CA,Oakland
+132,133,53,M,engineer,78602,M. Adult,TX,Bastrop
+133,134,31,M,programmer,80236,Y. Adult,CO,Denver
+134,135,23,M,student,38401,Y. Adult,TN,Columbia
+135,136,51,M,other,97365,M. Adult,OR,Newport
+136,137,50,M,educator,84408,M. Adult,UT,Ogden
+137,138,46,M,doctor,53211,M. Adult,WI,Milwaukee
+138,139,20,M,student,08904,Y. Adult,NJ,Highland Park
+139,140,30,F,student,32250,Y. Adult,FL,Jacksonville Beach
+140,141,49,M,programmer,36117,M. Adult,AL,Montgomery
+141,142,13,M,other,48118,Y. Adult,MI,Chelsea
+142,143,42,M,technician,08832,M. Adult,NJ,Keasbey
+143,144,53,M,programmer,20910,M. Adult,MD,Silver Spring
+144,145,31,M,entertainment,V3N4P,Y. Adult,OTHER,OTHER
+145,146,45,M,artist,83814,M. Adult,ID,Coeur D Alene
+146,147,40,F,librarian,02143,M. Adult,MA,Somerville
+147,148,33,M,engineer,97006,Y. Adult,OR,Beaverton
+148,149,35,F,marketing,17325,Y. Adult,PA,Gettysburg
+149,150,20,F,artist,02139,Y. Adult,MA,Cambridge
+150,151,38,F,administrator,48103,Y. Adult,MI,Ann Arbor
+151,152,33,F,educator,68767,Y. Adult,NE,Pierce
+152,153,25,M,student,60641,Y. Adult,IL,Chicago
+153,154,25,M,student,53703,Y. Adult,WI,Madison
+154,155,32,F,other,11217,Y. Adult,NY,Brooklyn
+155,156,25,M,educator,08360,Y. Adult,NJ,Vineland
+156,157,57,M,engineer,70808,M. Adult,LA,Baton Rouge
+157,158,50,M,educator,27606,M. Adult,NC,Raleigh
+158,159,23,F,student,55346,Y. Adult,MN,Eden Prairie
+159,160,27,M,programmer,66215,Y. Adult,KS,Lenexa
+160,161,50,M,lawyer,55104,M. Adult,MN,Saint Paul
+161,162,25,M,artist,15610,Y. Adult,PA,Acme
+162,163,49,M,administrator,97212,M. Adult,OR,Portland
+163,164,47,M,healthcare,80123,M. Adult,CO,Littleton
+164,165,20,F,other,53715,Y. Adult,WI,Madison
+165,166,47,M,educator,55113,M. Adult,MN,Saint Paul
+166,167,37,M,other,L9G2B,Y. Adult,OTHER,OTHER
+167,168,48,M,other,80127,M. Adult,CO,Littleton
+168,169,52,F,other,53705,M. Adult,WI,Madison
+169,170,53,F,healthcare,30067,M. Adult,GA,Marietta
+170,171,48,F,educator,78750,M. Adult,TX,Austin
+171,172,55,M,marketing,22207,M. Adult,VA,Arlington
+172,173,56,M,other,22306,M. Adult,VA,Alexandria
+173,174,30,F,administrator,52302,Y. Adult,IA,Marion
+174,175,26,F,scientist,21911,Y. Adult,MD,Rising Sun
+175,176,28,M,scientist,07030,Y. Adult,NJ,Hoboken
+176,177,20,M,programmer,19104,Y. Adult,PA,Philadelphia
+177,178,26,M,other,49512,Y. Adult,MI,Grand Rapids
+178,179,15,M,entertainment,20755,Y. Adult,MD,Fort George G Meade
+179,180,22,F,administrator,60202,Y. Adult,IL,Evanston
+180,181,26,M,executive,21218,Y. Adult,MD,Baltimore
+181,182,36,M,programmer,33884,Y. Adult,FL,Winter Haven
+182,183,33,M,scientist,27708,Y. Adult,NC,Durham
+183,184,37,M,librarian,76013,Y. Adult,TX,Arlington
+184,185,53,F,librarian,97403,M. Adult,OR,Eugene
+185,186,39,F,executive,00000,Y. Adult,OTHER,OTHER
+186,187,26,M,educator,16801,Y. Adult,PA,State College
+187,188,42,M,student,29440,M. Adult,SC,Georgetown
+188,189,32,M,artist,95014,Y. Adult,CA,Cupertino
+189,190,30,M,administrator,95938,Y. Adult,CA,Durham
+190,191,33,M,administrator,95161,Y. Adult,CA,San Jose
+191,192,42,M,educator,90840,M. Adult,CA,Long Beach
+192,193,29,M,student,49931,Y. Adult,MI,Houghton
+193,194,38,M,administrator,02154,Y. Adult,OTHER,OTHER
+194,195,42,M,scientist,93555,M. Adult,CA,Ridgecrest
+195,196,49,M,writer,55105,M. Adult,MN,Saint Paul
+196,197,55,M,technician,75094,M. Adult,TX,Plano
+197,198,21,F,student,55414,Y. Adult,MN,Minneapolis
+198,199,30,M,writer,17604,Y. Adult,PA,Lancaster
+199,200,40,M,programmer,93402,M. Adult,CA,Los Osos
+200,201,27,M,writer,E2A4H,Y. Adult,OTHER,OTHER
+201,202,41,F,educator,60201,M. Adult,IL,Evanston
+202,203,25,F,student,32301,Y. Adult,FL,Tallahassee
+203,204,52,F,librarian,10960,M. Adult,NY,Nyack
+204,205,47,M,lawyer,06371,M. Adult,CT,Old Lyme
+205,206,14,F,student,53115,Y. Adult,WI,Delavan
+206,207,39,M,marketing,92037,Y. Adult,CA,La Jolla
+207,208,43,M,engineer,01720,M. Adult,MA,Acton
+208,209,33,F,educator,85710,Y. Adult,AZ,Tucson
+209,210,39,M,engineer,03060,Y. Adult,NH,Nashua
+210,211,66,M,salesman,32605,Adult,FL,Gainesville
+211,212,49,F,educator,61401,M. Adult,IL,Galesburg
+212,213,33,M,executive,55345,Y. Adult,MN,Minnetonka
+213,214,26,F,librarian,11231,Y. Adult,NY,Brooklyn
+214,215,35,M,programmer,63033,Y. Adult,MO,Florissant
+215,216,22,M,engineer,02215,Y. Adult,MA,Boston
+216,217,22,M,other,11727,Y. Adult,NY,Coram
+217,218,37,M,administrator,06513,Y. Adult,CT,New Haven
+218,219,32,M,programmer,43212,Y. Adult,OH,Columbus
+219,220,30,M,librarian,78205,Y. Adult,TX,San Antonio
+220,221,19,M,student,20685,Y. Adult,MD,Saint Leonard
+221,222,29,M,programmer,27502,Y. Adult,NC,Apex
+222,223,19,F,student,47906,Y. Adult,IN,West Lafayette
+223,224,31,F,educator,43512,Y. Adult,OH,Defiance
+224,225,51,F,administrator,58202,M. Adult,ND,Grand Forks
+225,226,28,M,student,92103,Y. Adult,CA,San Diego
+226,227,46,M,executive,60659,M. Adult,IL,Chicago
+227,228,21,F,student,22003,Y. Adult,VA,Annandale
+228,229,29,F,librarian,22903,Y. Adult,VA,Charlottesville
+229,230,28,F,student,14476,Y. Adult,NY,Kendall
+230,231,48,M,librarian,01080,M. Adult,MA,Three Rivers
+231,232,45,M,scientist,99709,M. Adult,AK,Fairbanks
+232,233,38,M,engineer,98682,Y. Adult,WA,Vancouver
+233,234,60,M,retired,94702,Adult,CA,Berkeley
+234,235,37,M,educator,22973,Y. Adult,VA,Stanardsville
+235,236,44,F,writer,53214,M. Adult,WI,Milwaukee
+236,237,49,M,administrator,63146,M. Adult,MO,Saint Louis
+237,238,42,F,administrator,44124,M. Adult,OH,Cleveland
+238,239,39,M,artist,95628,Y. Adult,CA,Fair Oaks
+239,240,23,F,educator,20784,Y. Adult,MD,Hyattsville
+240,241,26,F,student,20001,Y. Adult,DC,Washington
+241,242,33,M,educator,31404,Y. Adult,GA,Savannah
+242,243,33,M,educator,60201,Y. Adult,IL,Evanston
+243,244,28,M,technician,80525,Y. Adult,CO,Fort Collins
+244,245,22,M,student,55109,Y. Adult,MN,Saint Paul
+245,246,19,M,student,28734,Y. Adult,NC,Franklin
+246,247,28,M,engineer,20770,Y. Adult,MD,Greenbelt
+247,248,25,M,student,37235,Y. Adult,TN,Nashville
+248,249,25,M,student,84103,Y. Adult,UT,Salt Lake City
+249,250,29,M,executive,95110,Y. Adult,CA,San Jose
+250,251,28,M,doctor,85032,Y. Adult,AZ,Phoenix
+251,252,42,M,engineer,07733,M. Adult,NJ,Holmdel
+252,253,26,F,librarian,22903,Y. Adult,VA,Charlottesville
+253,254,44,M,educator,42647,M. Adult,KY,Stearns
+254,255,23,M,entertainment,07029,Y. Adult,NJ,Harrison
+255,256,35,F,none,39042,Y. Adult,MS,Brandon
+256,257,17,M,student,77005,Y. Adult,TX,Houston
+257,258,19,F,student,77801,Y. Adult,TX,Bryan
+258,259,21,M,student,48823,Y. Adult,MI,East Lansing
+259,260,40,F,artist,89801,M. Adult,NV,Elko
+260,261,28,M,administrator,85202,Y. Adult,AZ,Mesa
+261,262,19,F,student,78264,Y. Adult,TX,San Antonio
+262,263,41,M,programmer,55346,M. Adult,MN,Eden Prairie
+263,264,36,F,writer,90064,Y. Adult,CA,Los Angeles
+264,265,26,M,executive,84601,Y. Adult,UT,Provo
+265,266,62,F,administrator,78756,Adult,TX,Austin
+266,267,23,M,engineer,83716,Y. Adult,ID,Boise
+267,268,24,M,engineer,19422,Y. Adult,PA,Blue Bell
+268,269,31,F,librarian,43201,Y. Adult,OH,Columbus
+269,270,18,F,student,63119,Y. Adult,MO,Saint Louis
+270,271,51,M,engineer,22932,M. Adult,VA,Crozet
+271,272,33,M,scientist,53706,Y. Adult,WI,Madison
+272,273,50,F,other,10016,M. Adult,NY,New York
+273,274,20,F,student,55414,Y. Adult,MN,Minneapolis
+274,275,38,M,engineer,92064,Y. Adult,CA,Poway
+275,276,21,M,student,95064,Y. Adult,CA,Santa Cruz
+276,277,35,F,administrator,55406,Y. Adult,MN,Minneapolis
+277,278,37,F,librarian,30033,Y. Adult,GA,Decatur
+278,279,33,M,programmer,85251,Y. Adult,AZ,Scottsdale
+279,280,30,F,librarian,22903,Y. Adult,VA,Charlottesville
+280,281,15,F,student,06059,Y. Adult,CT,North Canton
+281,282,22,M,administrator,20057,Y. Adult,DC,Washington
+282,283,28,M,programmer,55305,Y. Adult,MN,Hopkins
+283,284,40,M,executive,92629,M. Adult,CA,Dana Point
+284,285,25,M,programmer,53713,Y. Adult,WI,Madison
+285,286,27,M,student,15217,Y. Adult,PA,Pittsburgh
+286,287,21,M,salesman,31211,Y. Adult,GA,Macon
+287,288,34,M,marketing,23226,Y. Adult,VA,Richmond
+288,289,11,M,none,94619,Y. Adult,CA,Oakland
+289,290,40,M,engineer,93550,M. Adult,CA,Palmdale
+290,291,19,M,student,44106,Y. Adult,OH,Cleveland
+291,292,35,F,programmer,94703,Y. Adult,CA,Berkeley
+292,293,24,M,writer,60804,Y. Adult,IL,Cicero
+293,294,34,M,technician,92110,Y. Adult,CA,San Diego
+294,295,31,M,educator,50325,Y. Adult,IA,Clive
+295,296,43,F,administrator,16803,M. Adult,PA,State College
+296,297,29,F,educator,98103,Y. Adult,WA,Seattle
+297,298,44,M,executive,01581,M. Adult,MA,Westborough
+298,299,29,M,doctor,63108,Y. Adult,MO,Saint Louis
+299,300,26,F,programmer,55106,Y. Adult,MN,Saint Paul
+300,301,24,M,student,55439,Y. Adult,MN,Minneapolis
+301,302,42,M,educator,77904,M. Adult,TX,Victoria
+302,303,19,M,student,14853,Y. Adult,NY,Ithaca
+303,304,22,F,student,71701,Y. Adult,AR,Camden
+304,305,23,M,programmer,94086,Y. Adult,CA,Sunnyvale
+305,306,45,M,other,73132,M. Adult,OK,Oklahoma City
+306,307,25,M,student,55454,Y. Adult,MN,Minneapolis
+307,308,60,M,retired,95076,Adult,CA,Watsonville
+308,309,40,M,scientist,70802,M. Adult,LA,Baton Rouge
+309,310,37,M,educator,91711,Y. Adult,CA,Claremont
+310,311,32,M,technician,73071,Y. Adult,OK,Norman
+311,312,48,M,other,02110,M. Adult,MA,Boston
+312,313,41,M,marketing,60035,M. Adult,IL,Highland Park
+313,314,20,F,student,08043,Y. Adult,NJ,Voorhees
+314,315,31,M,educator,18301,Y. Adult,PA,East Stroudsburg
+315,316,43,F,other,77009,M. Adult,TX,Houston
+316,317,22,M,administrator,13210,Y. Adult,NY,Syracuse
+317,318,65,M,retired,06518,Adult,CT,Hamden
+318,319,38,M,programmer,22030,Y. Adult,VA,Fairfax
+319,320,19,M,student,24060,Y. Adult,VA,Blacksburg
+320,321,49,F,educator,55413,M. Adult,MN,Minneapolis
+321,322,20,M,student,50613,Y. Adult,IA,Cedar Falls
+322,323,21,M,student,19149,Y. Adult,PA,Philadelphia
+323,324,21,F,student,02176,Y. Adult,MA,Melrose
+324,325,48,M,technician,02139,M. Adult,MA,Cambridge
+325,326,41,M,administrator,15235,M. Adult,PA,Pittsburgh
+326,327,22,M,student,11101,Y. Adult,NY,Long Island City
+327,328,51,M,administrator,06779,M. Adult,CT,Oakville
+328,329,48,M,educator,01720,M. Adult,MA,Acton
+329,330,35,F,educator,33884,Y. Adult,FL,Winter Haven
+330,331,33,M,entertainment,91344,Y. Adult,CA,Granada Hills
+331,332,20,M,student,40504,Y. Adult,KY,Lexington
+332,333,47,M,other,V0R2M,M. Adult,OTHER,OTHER
+333,334,32,M,librarian,30002,Y. Adult,GA,Avondale Estates
+334,335,45,M,executive,33775,M. Adult,FL,Seminole
+335,336,23,M,salesman,42101,Y. Adult,KY,Bowling Green
+336,337,37,M,scientist,10522,Y. Adult,NY,Dobbs Ferry
+337,338,39,F,librarian,59717,Y. Adult,MT,Bozeman
+338,339,35,M,lawyer,37901,Y. Adult,TN,Knoxville
+339,340,46,M,engineer,80123,M. Adult,CO,Littleton
+340,341,17,F,student,44405,Y. Adult,OH,Campbell
+341,342,25,F,other,98006,Y. Adult,WA,Bellevue
+342,343,43,M,engineer,30093,M. Adult,GA,Norcross
+343,344,30,F,librarian,94117,Y. Adult,CA,San Francisco
+344,345,28,F,librarian,94143,Y. Adult,CA,San Francisco
+345,346,34,M,other,76059,Y. Adult,TX,Keene
+346,347,18,M,student,90210,Y. Adult,CA,Beverly Hills
+347,348,24,F,student,45660,Y. Adult,OH,Peebles
+348,349,68,M,retired,61455,Adult,IL,Macomb
+349,350,32,M,student,97301,Y. Adult,OR,Salem
+350,351,61,M,educator,49938,Adult,MI,Ironwood
+351,352,37,F,programmer,55105,Y. Adult,MN,Saint Paul
+352,353,25,M,scientist,28480,Y. Adult,NC,Wrightsville Beach
+353,354,29,F,librarian,48197,Y. Adult,MI,Ypsilanti
+354,355,25,M,student,60135,Y. Adult,IL,Genoa
+355,356,32,F,homemaker,92688,Y. Adult,CA,Rancho Santa Margarita
+356,357,26,M,executive,98133,Y. Adult,WA,Seattle
+357,358,40,M,educator,10022,M. Adult,NY,New York
+358,359,22,M,student,61801,Y. Adult,IL,Urbana
+359,360,51,M,other,98027,M. Adult,WA,Issaquah
+360,361,22,M,student,44074,Y. Adult,OH,Oberlin
+361,362,35,F,homemaker,85233,Y. Adult,AZ,Gilbert
+362,363,20,M,student,87501,Y. Adult,NM,Santa Fe
+363,364,63,M,engineer,01810,Adult,MA,Andover
+364,365,29,M,lawyer,20009,Y. Adult,DC,Washington
+365,366,20,F,student,50670,Y. Adult,IA,Shell Rock
+366,367,17,M,student,37411,Y. Adult,TN,Chattanooga
+367,368,18,M,student,92113,Y. Adult,CA,San Diego
+368,369,24,M,student,91335,Y. Adult,CA,Reseda
+369,370,52,M,writer,08534,M. Adult,NJ,Pennington
+370,371,36,M,engineer,99206,Y. Adult,WA,Spokane
+371,372,25,F,student,66046,Y. Adult,KS,Lawrence
+372,373,24,F,other,55116,Y. Adult,MN,Saint Paul
+373,374,36,M,executive,78746,Y. Adult,TX,Austin
+374,375,17,M,entertainment,37777,Y. Adult,TN,Louisville
+375,376,28,F,other,10010,Y. Adult,NY,New York
+376,377,22,M,student,18015,Y. Adult,PA,Bethlehem
+377,378,35,M,student,02859,Y. Adult,RI,Pascoag
+378,379,44,M,programmer,98117,M. Adult,WA,Seattle
+379,380,32,M,engineer,55117,Y. Adult,MN,Saint Paul
+380,381,33,M,artist,94608,Y. Adult,CA,Emeryville
+381,382,45,M,engineer,01824,M. Adult,MA,Chelmsford
+382,383,42,M,administrator,75204,M. Adult,TX,Dallas
+383,384,52,M,programmer,45218,M. Adult,OH,Cincinnati
+384,385,36,M,writer,10003,Y. Adult,NY,New York
+385,386,36,M,salesman,43221,Y. Adult,OH,Columbus
+386,387,33,M,entertainment,37412,Y. Adult,TN,Chattanooga
+387,388,31,M,other,36106,Y. Adult,AL,Montgomery
+388,389,44,F,writer,83702,M. Adult,ID,Boise
+389,390,42,F,writer,85016,M. Adult,AZ,Phoenix
+390,391,23,M,student,84604,Y. Adult,UT,Provo
+391,392,52,M,writer,59801,M. Adult,MT,Missoula
+392,393,19,M,student,83686,Y. Adult,ID,Nampa
+393,394,25,M,administrator,96819,Y. Adult,HI,Honolulu
+394,395,43,M,other,44092,M. Adult,OH,Wickliffe
+395,396,57,M,engineer,94551,M. Adult,CA,Livermore
+396,397,17,M,student,27514,Y. Adult,NC,Chapel Hill
+397,398,40,M,other,60008,M. Adult,IL,Rolling Meadows
+398,399,25,M,other,92374,Y. Adult,CA,Redlands
+399,400,33,F,administrator,78213,Y. Adult,TX,San Antonio
+400,401,46,F,healthcare,84107,M. Adult,UT,Salt Lake City
+401,402,30,M,engineer,95129,Y. Adult,CA,San Jose
+402,403,37,M,other,06811,Y. Adult,CT,Danbury
+403,404,29,F,programmer,55108,Y. Adult,MN,Saint Paul
+404,405,22,F,healthcare,10019,Y. Adult,NY,New York
+405,406,52,M,educator,93109,M. Adult,CA,Santa Barbara
+406,407,29,M,engineer,03261,Y. Adult,NH,Northwood
+407,408,23,M,student,61755,Y. Adult,IL,Mackinaw
+408,409,48,M,administrator,98225,M. Adult,WA,Bellingham
+409,410,30,F,artist,94025,Y. Adult,CA,Menlo Park
+410,411,34,M,educator,44691,Y. Adult,OH,Wooster
+411,412,25,M,educator,15222,Y. Adult,PA,Pittsburgh
+412,413,55,M,educator,78212,M. Adult,TX,San Antonio
+413,414,24,M,programmer,38115,Y. Adult,TN,Memphis
+414,415,39,M,educator,85711,Y. Adult,AZ,Tucson
+415,416,20,F,student,92626,Y. Adult,CA,Costa Mesa
+416,417,27,F,other,48103,Y. Adult,MI,Ann Arbor
+417,418,55,F,none,21206,M. Adult,MD,Baltimore
+418,419,37,M,lawyer,43215,Y. Adult,OH,Columbus
+419,420,53,M,educator,02140,M. Adult,MA,Cambridge
+420,421,38,F,programmer,55105,Y. Adult,MN,Saint Paul
+421,422,26,M,entertainment,94533,Y. Adult,CA,Fairfield
+422,423,64,M,other,91606,Adult,CA,North Hollywood
+423,424,36,F,marketing,55422,Y. Adult,MN,Minneapolis
+424,425,19,M,student,58644,Y. Adult,ND,Marshall
+425,426,55,M,educator,01602,M. Adult,MA,Worcester
+426,427,51,M,doctor,85258,M. Adult,AZ,Scottsdale
+427,428,28,M,student,55414,Y. Adult,MN,Minneapolis
+428,429,27,M,student,29205,Y. Adult,SC,Columbia
+429,430,38,M,scientist,98199,Y. Adult,WA,Seattle
+430,431,24,M,marketing,92629,Y. Adult,CA,Dana Point
+431,432,22,M,entertainment,50311,Y. Adult,IA,Des Moines
+432,433,27,M,artist,11211,Y. Adult,NY,Brooklyn
+433,434,16,F,student,49705,Y. Adult,MI,Afton
+434,435,24,M,engineer,60007,Y. Adult,IL,Elk Grove Village
+435,436,30,F,administrator,17345,Y. Adult,PA,Manchester
+436,437,27,F,other,20009,Y. Adult,DC,Washington
+437,438,51,F,administrator,43204,M. Adult,OH,Columbus
+438,439,23,F,administrator,20817,Y. Adult,MD,Bethesda
+439,440,30,M,other,48076,Y. Adult,MI,Southfield
+440,441,50,M,technician,55013,M. Adult,MN,Chisago City
+441,442,22,M,student,85282,Y. Adult,AZ,Tempe
+442,443,35,M,salesman,33308,Y. Adult,FL,Fort Lauderdale
+443,444,51,F,lawyer,53202,M. Adult,WI,Milwaukee
+444,445,21,M,writer,92653,Y. Adult,CA,Laguna Hills
+445,446,57,M,educator,60201,M. Adult,IL,Evanston
+446,447,30,M,administrator,55113,Y. Adult,MN,Saint Paul
+447,448,23,M,entertainment,10021,Y. Adult,NY,New York
+448,449,23,M,librarian,55021,Y. Adult,MN,Faribault
+449,450,35,F,educator,11758,Y. Adult,NY,Massapequa
+450,451,16,M,student,48446,Y. Adult,MI,Lapeer
+451,452,35,M,administrator,28018,Y. Adult,NC,Bostic
+452,453,18,M,student,06333,Y. Adult,CT,East Lyme
+453,454,57,M,other,97330,M. Adult,OR,Corvallis
+454,455,48,M,administrator,83709,M. Adult,ID,Boise
+455,456,24,M,technician,31820,Y. Adult,GA,Midland
+456,457,33,F,salesman,30011,Y. Adult,GA,Auburn
+457,458,47,M,technician,Y1A6B,M. Adult,OTHER,OTHER
+458,459,22,M,student,29201,Y. Adult,SC,Columbia
+459,460,44,F,other,60630,M. Adult,IL,Chicago
+460,461,15,M,student,98102,Y. Adult,WA,Seattle
+461,462,19,F,student,02918,Y. Adult,RI,Providence
+462,463,48,F,healthcare,75218,M. Adult,TX,Dallas
+463,464,60,M,writer,94583,Adult,CA,San Ramon
+464,465,32,M,other,05001,Y. Adult,VT,White River Junction
+465,466,22,M,student,90804,Y. Adult,CA,Long Beach
+466,467,29,M,engineer,91201,Y. Adult,CA,Glendale
+467,468,28,M,engineer,02341,Y. Adult,MA,Hanson
+468,469,60,M,educator,78628,Adult,TX,Georgetown
+469,470,24,M,programmer,10021,Y. Adult,NY,New York
+470,471,10,M,student,77459,Y. Adult,TX,Missouri City
+471,472,24,M,student,87544,Y. Adult,NM,Los Alamos
+472,473,29,M,student,94708,Y. Adult,CA,Berkeley
+473,474,51,M,executive,93711,M. Adult,CA,Fresno
+474,475,30,M,programmer,75230,Y. Adult,TX,Dallas
+475,476,28,M,student,60440,Y. Adult,IL,Bolingbrook
+476,477,23,F,student,02125,Y. Adult,MA,Dorchester
+477,478,29,M,other,10019,Y. Adult,NY,New York
+478,479,30,M,educator,55409,Y. Adult,MN,Minneapolis
+479,480,57,M,retired,98257,M. Adult,WA,La Conner
+480,481,73,M,retired,37771,Adult,TN,Lenoir City
+481,482,18,F,student,40256,Y. Adult,KY,Louisville
+482,483,29,M,scientist,43212,Y. Adult,OH,Columbus
+483,484,27,M,student,21208,Y. Adult,MD,Pikesville
+484,485,44,F,educator,95821,M. Adult,CA,Sacramento
+485,486,39,M,educator,93101,Y. Adult,CA,Santa Barbara
+486,487,22,M,engineer,92121,Y. Adult,CA,San Diego
+487,488,48,M,technician,21012,M. Adult,MD,Arnold
+488,489,55,M,other,45218,M. Adult,OH,Cincinnati
+489,490,29,F,artist,V5A2B,Y. Adult,OTHER,OTHER
+490,491,43,F,writer,53711,M. Adult,WI,Madison
+491,492,57,M,educator,94618,M. Adult,CA,Oakland
+492,493,22,M,engineer,60090,Y. Adult,IL,Wheeling
+493,494,38,F,administrator,49428,Y. Adult,MI,Jenison
+494,495,29,M,engineer,03052,Y. Adult,NH,Litchfield
+495,496,21,F,student,55414,Y. Adult,MN,Minneapolis
+496,497,20,M,student,50112,Y. Adult,IA,Grinnell
+497,498,26,M,writer,55408,Y. Adult,MN,Minneapolis
+498,499,42,M,programmer,75006,M. Adult,TX,Carrollton
+499,500,28,M,administrator,94305,Y. Adult,CA,Stanford
+500,501,22,M,student,10025,Y. Adult,NY,New York
+501,502,22,M,student,23092,Y. Adult,VA,Locust Hill
+502,503,50,F,writer,27514,M. Adult,NC,Chapel Hill
+503,504,40,F,writer,92115,M. Adult,CA,San Diego
+504,505,27,F,other,20657,Y. Adult,MD,Lusby
+505,506,46,M,programmer,03869,M. Adult,NH,Rollinsford
+506,507,18,F,writer,28450,Y. Adult,NC,Lake Waccamaw
+507,508,27,M,marketing,19382,Y. Adult,PA,West Chester
+508,509,23,M,administrator,10011,Y. Adult,NY,New York
+509,510,34,M,other,98038,Y. Adult,WA,Maple Valley
+510,511,22,M,student,21250,Y. Adult,MD,Baltimore
+511,512,29,M,other,20090,Y. Adult,DC,Washington
+512,513,43,M,administrator,26241,M. Adult,WV,Elkins
+513,514,27,M,programmer,20707,Y. Adult,MD,Laurel
+514,515,53,M,marketing,49508,M. Adult,MI,Grand Rapids
+515,516,53,F,librarian,10021,M. Adult,NY,New York
+516,517,24,M,student,55454,Y. Adult,MN,Minneapolis
+517,518,49,F,writer,99709,M. Adult,AK,Fairbanks
+518,519,22,M,other,55320,Y. Adult,MN,Clearwater
+519,520,62,M,healthcare,12603,Adult,NY,Poughkeepsie
+520,521,19,M,student,02146,Y. Adult,OTHER,OTHER
+521,522,36,M,engineer,55443,Y. Adult,MN,Minneapolis
+522,523,50,F,administrator,04102,M. Adult,ME,Portland
+523,524,56,M,educator,02159,M. Adult,OTHER,OTHER
+524,525,27,F,administrator,19711,Y. Adult,DE,Newark
+525,526,30,M,marketing,97124,Y. Adult,OR,Hillsboro
+526,527,33,M,librarian,12180,Y. Adult,NY,Troy
+527,528,18,M,student,55104,Y. Adult,MN,Saint Paul
+528,529,47,F,administrator,44224,M. Adult,OH,Stow
+529,530,29,M,engineer,94040,Y. Adult,CA,Mountain View
+530,531,30,F,salesman,97408,Y. Adult,OR,Eugene
+531,532,20,M,student,92705,Y. Adult,CA,Santa Ana
+532,533,43,M,librarian,02324,M. Adult,MA,Bridgewater
+533,534,20,M,student,05464,Y. Adult,VT,Jeffersonville
+534,535,45,F,educator,80302,M. Adult,CO,Boulder
+535,536,38,M,engineer,30078,Y. Adult,GA,Snellville
+536,537,36,M,engineer,22902,Y. Adult,VA,Charlottesville
+537,538,31,M,scientist,21010,Y. Adult,MD,Gunpowder
+538,539,53,F,administrator,80303,M. Adult,CO,Boulder
+539,540,28,M,engineer,91201,Y. Adult,CA,Glendale
+540,541,19,F,student,84302,Y. Adult,UT,Brigham City
+541,542,21,M,student,60515,Y. Adult,IL,Downers Grove
+542,543,33,M,scientist,95123,Y. Adult,CA,San Jose
+543,544,44,F,other,29464,M. Adult,SC,Mount Pleasant
+544,545,27,M,technician,08052,Y. Adult,NJ,Maple Shade
+545,546,36,M,executive,22911,Y. Adult,VA,Charlottesville
+546,547,50,M,educator,14534,M. Adult,NY,Pittsford
+547,548,51,M,writer,95468,M. Adult,CA,Point Arena
+548,549,42,M,scientist,45680,M. Adult,OH,South Point
+549,550,16,F,student,95453,Y. Adult,CA,Lakeport
+550,551,25,M,programmer,55414,Y. Adult,MN,Minneapolis
+551,552,45,M,other,68147,M. Adult,NE,Bellevue
+552,553,58,M,educator,62901,M. Adult,IL,Carbondale
+553,554,32,M,scientist,62901,Y. Adult,IL,Carbondale
+554,555,29,F,educator,23227,Y. Adult,VA,Richmond
+555,556,35,F,educator,30606,Y. Adult,GA,Athens
+556,557,30,F,writer,11217,Y. Adult,NY,Brooklyn
+557,558,56,F,writer,63132,M. Adult,MO,Saint Louis
+558,559,69,M,executive,10022,Adult,NY,New York
+559,560,32,M,student,10003,Y. Adult,NY,New York
+560,561,23,M,engineer,60005,Y. Adult,IL,Arlington Heights
+561,562,54,F,administrator,20879,M. Adult,MD,Gaithersburg
+562,563,39,F,librarian,32707,Y. Adult,FL,Casselberry
+563,564,65,M,retired,94591,Adult,CA,Vallejo
+564,565,40,M,student,55422,M. Adult,MN,Minneapolis
+565,566,20,M,student,14627,Y. Adult,NY,Rochester
+566,567,24,M,entertainment,10003,Y. Adult,NY,New York
+567,568,39,M,educator,01915,Y. Adult,MA,Beverly
+568,569,34,M,educator,91903,Y. Adult,CA,Alpine
+569,570,26,M,educator,14627,Y. Adult,NY,Rochester
+570,571,34,M,artist,01945,Y. Adult,MA,Marblehead
+571,572,51,M,educator,20003,M. Adult,DC,Washington
+572,573,68,M,retired,48911,Adult,MI,Lansing
+573,574,56,M,educator,53188,M. Adult,WI,Waukesha
+574,575,33,M,marketing,46032,Y. Adult,IN,Carmel
+575,576,48,M,executive,98281,M. Adult,WA,Point Roberts
+576,577,36,F,student,77845,Y. Adult,TX,College Station
+577,578,31,M,administrator,M7A1A,Y. Adult,OTHER,OTHER
+578,579,32,M,educator,48103,Y. Adult,MI,Ann Arbor
+579,580,16,M,student,17961,Y. Adult,PA,Orwigsburg
+580,581,37,M,other,94131,Y. Adult,CA,San Francisco
+581,582,17,M,student,93003,Y. Adult,CA,Ventura
+582,583,44,M,engineer,29631,M. Adult,SC,Clemson
+583,584,25,M,student,27511,Y. Adult,NC,Cary
+584,585,69,M,librarian,98501,Adult,WA,Olympia
+585,586,20,M,student,79508,Y. Adult,TX,Buffalo Gap
+586,587,26,M,other,14216,Y. Adult,NY,Buffalo
+587,588,18,F,student,93063,Y. Adult,CA,Simi Valley
+588,589,21,M,lawyer,90034,Y. Adult,CA,Los Angeles
+589,590,50,M,educator,82435,M. Adult,WY,Powell
+590,591,57,F,librarian,92093,M. Adult,CA,La Jolla
+591,592,18,M,student,97520,Y. Adult,OR,Ashland
+592,593,31,F,educator,68767,Y. Adult,NE,Pierce
+593,594,46,M,educator,M4J2K,M. Adult,OTHER,OTHER
+594,595,25,M,programmer,31909,Y. Adult,GA,Columbus
+595,596,20,M,artist,77073,Y. Adult,TX,Houston
+596,597,23,M,other,84116,Y. Adult,UT,Salt Lake City
+597,598,40,F,marketing,43085,M. Adult,OH,Columbus
+598,599,22,F,student,R3T5K,Y. Adult,OTHER,OTHER
+599,600,34,M,programmer,02320,Y. Adult,OTHER,OTHER
+600,601,19,F,artist,99687,Y. Adult,AK,Wasilla
+601,602,47,F,other,34656,M. Adult,FL,New Port Richey
+602,603,21,M,programmer,47905,Y. Adult,IN,Lafayette
+603,604,39,M,educator,11787,Y. Adult,NY,Smithtown
+604,605,33,M,engineer,33716,Y. Adult,FL,Saint Petersburg
+605,606,28,M,programmer,63044,Y. Adult,MO,Bridgeton
+606,607,49,F,healthcare,02154,M. Adult,OTHER,OTHER
+607,608,22,M,other,10003,Y. Adult,NY,New York
+608,609,13,F,student,55106,Y. Adult,MN,Saint Paul
+609,610,22,M,student,21227,Y. Adult,MD,Halethorpe
+610,611,46,M,librarian,77008,M. Adult,TX,Houston
+611,612,36,M,educator,79070,Y. Adult,TX,Perryton
+612,613,37,F,marketing,29678,Y. Adult,SC,Seneca
+613,614,54,M,educator,80227,M. Adult,CO,Denver
+614,615,38,M,educator,27705,Y. Adult,NC,Durham
+615,616,55,M,scientist,50613,M. Adult,IA,Cedar Falls
+616,617,27,F,writer,11201,Y. Adult,NY,Brooklyn
+617,618,15,F,student,44212,Y. Adult,OH,Brunswick
+618,619,17,M,student,44134,Y. Adult,OH,Cleveland
+619,620,18,F,writer,81648,Y. Adult,CO,Rangely
+620,621,17,M,student,60402,Y. Adult,IL,Berwyn
+621,622,25,M,programmer,14850,Y. Adult,NY,Ithaca
+622,623,50,F,educator,60187,M. Adult,IL,Wheaton
+623,624,19,M,student,30067,Y. Adult,GA,Marietta
+624,625,27,M,programmer,20723,Y. Adult,MD,Laurel
+625,626,23,M,scientist,19807,Y. Adult,DE,Wilmington
+626,627,24,M,engineer,08034,Y. Adult,NJ,Cherry Hill
+627,628,13,M,none,94306,Y. Adult,CA,Palo Alto
+628,629,46,F,other,44224,M. Adult,OH,Stow
+629,630,26,F,healthcare,55408,Y. Adult,MN,Minneapolis
+630,631,18,F,student,38866,Y. Adult,MS,Saltillo
+631,632,18,M,student,55454,Y. Adult,MN,Minneapolis
+632,633,35,M,programmer,55414,Y. Adult,MN,Minneapolis
+633,634,39,M,engineer,T8H1N,Y. Adult,OTHER,OTHER
+634,635,22,M,other,23237,Y. Adult,VA,Richmond
+635,636,47,M,educator,48043,M. Adult,MI,Mount Clemens
+636,637,30,M,other,74101,Y. Adult,OK,Tulsa
+637,638,45,M,engineer,01940,M. Adult,MA,Lynnfield
+638,639,42,F,librarian,12065,M. Adult,NY,Clifton Park
+639,640,20,M,student,61801,Y. Adult,IL,Urbana
+640,641,24,M,student,60626,Y. Adult,IL,Chicago
+641,642,18,F,student,95521,Y. Adult,CA,Arcata
+642,643,39,M,scientist,55122,Y. Adult,MN,Saint Paul
+643,644,51,M,retired,63645,M. Adult,MO,Fredericktown
+644,645,27,M,programmer,53211,Y. Adult,WI,Milwaukee
+645,646,17,F,student,51250,Y. Adult,IA,Sioux Center
+646,647,40,M,educator,45810,M. Adult,OH,Ada
+647,648,43,M,engineer,91351,M. Adult,CA,Canyon Country
+648,649,20,M,student,39762,Y. Adult,MS,Mississippi State
+649,650,42,M,engineer,83814,M. Adult,ID,Coeur D Alene
+650,651,65,M,retired,02903,Adult,RI,Providence
+651,652,35,M,other,22911,Y. Adult,VA,Charlottesville
+652,653,31,M,executive,55105,Y. Adult,MN,Saint Paul
+653,654,27,F,student,78739,Y. Adult,TX,Austin
+654,655,50,F,healthcare,60657,M. Adult,IL,Chicago
+655,656,48,M,educator,10314,M. Adult,NY,Staten Island
+656,657,26,F,none,78704,Y. Adult,TX,Austin
+657,658,33,M,programmer,92626,Y. Adult,CA,Costa Mesa
+658,659,31,M,educator,54248,Y. Adult,OTHER,OTHER
+659,660,26,M,student,77380,Y. Adult,TX,Spring
+660,661,28,M,programmer,98121,Y. Adult,WA,Seattle
+661,662,55,M,librarian,19102,M. Adult,PA,Philadelphia
+662,663,26,M,other,19341,Y. Adult,PA,Exton
+663,664,30,M,engineer,94115,Y. Adult,CA,San Francisco
+664,665,25,M,administrator,55412,Y. Adult,MN,Minneapolis
+665,666,44,M,administrator,61820,M. Adult,IL,Champaign
+666,667,35,M,librarian,01970,Y. Adult,MA,Salem
+667,668,29,F,writer,10016,Y. Adult,NY,New York
+668,669,37,M,other,20009,Y. Adult,DC,Washington
+669,670,30,M,technician,21114,Y. Adult,MD,Crofton
+670,671,21,M,programmer,91919,Y. Adult,OTHER,OTHER
+671,672,54,F,administrator,90095,M. Adult,CA,Los Angeles
+672,673,51,M,educator,22906,M. Adult,VA,Charlottesville
+673,674,13,F,student,55337,Y. Adult,MN,Burnsville
+674,675,34,M,other,28814,Y. Adult,NC,Asheville
+675,676,30,M,programmer,32712,Y. Adult,FL,Apopka
+676,677,20,M,other,99835,Y. Adult,AK,Sitka
+677,678,50,M,educator,61462,M. Adult,IL,Monmouth
+678,679,20,F,student,54302,Y. Adult,WI,Green Bay
+679,680,33,M,lawyer,90405,Y. Adult,CA,Santa Monica
+680,681,44,F,marketing,97208,M. Adult,OR,Portland
+681,682,23,M,programmer,55128,Y. Adult,MN,Saint Paul
+682,683,42,M,librarian,23509,M. Adult,VA,Norfolk
+683,684,28,M,student,55414,Y. Adult,MN,Minneapolis
+684,685,32,F,librarian,55409,Y. Adult,MN,Minneapolis
+685,686,32,M,educator,26506,Y. Adult,WV,Morgantown
+686,687,31,F,healthcare,27713,Y. Adult,NC,Durham
+687,688,37,F,administrator,60476,Y. Adult,IL,Thornton
+688,689,25,M,other,45439,Y. Adult,OH,Dayton
+689,690,35,M,salesman,63304,Y. Adult,MO,Saint Charles
+690,691,34,M,educator,60089,Y. Adult,IL,Buffalo Grove
+691,692,34,M,engineer,18053,Y. Adult,PA,Germansville
+692,693,43,F,healthcare,85210,M. Adult,AZ,Mesa
+693,694,60,M,programmer,06365,Adult,CT,Preston
+694,695,26,M,writer,38115,Y. Adult,TN,Memphis
+695,696,55,M,other,94920,M. Adult,CA,Belvedere Tiburon
+696,697,25,M,other,77042,Y. Adult,TX,Houston
+697,698,28,F,programmer,06906,Y. Adult,CT,Stamford
+698,699,44,M,other,96754,M. Adult,HI,Kilauea
+699,700,17,M,student,76309,Y. Adult,TX,Wichita Falls
+700,701,51,F,librarian,56321,M. Adult,MN,Collegeville
+701,702,37,M,other,89104,Y. Adult,NV,Las Vegas
+702,703,26,M,educator,49512,Y. Adult,MI,Grand Rapids
+703,704,51,F,librarian,91105,M. Adult,CA,Pasadena
+704,705,21,F,student,54494,Y. Adult,WI,Wisconsin Rapids
+705,706,23,M,student,55454,Y. Adult,MN,Minneapolis
+706,707,56,F,librarian,19146,M. Adult,PA,Philadelphia
+707,708,26,F,homemaker,96349,Y. Adult,AP,Fpo
+708,709,21,M,other,N4T1A,Y. Adult,OTHER,OTHER
+709,710,19,M,student,92020,Y. Adult,CA,El Cajon
+710,711,22,F,student,15203,Y. Adult,PA,Pittsburgh
+711,712,22,F,student,54901,Y. Adult,WI,Oshkosh
+712,713,42,F,other,07204,M. Adult,NJ,Roselle Park
+713,714,26,M,engineer,55343,Y. Adult,MN,Hopkins
+714,715,21,M,technician,91206,Y. Adult,CA,Glendale
+715,716,36,F,administrator,44265,Y. Adult,OH,Randolph
+716,717,24,M,technician,84105,Y. Adult,UT,Salt Lake City
+717,718,42,M,technician,64118,M. Adult,MO,Kansas City
+718,719,37,F,other,V0R2H,Y. Adult,OTHER,OTHER
+719,720,49,F,administrator,16506,M. Adult,PA,Erie
+720,721,24,F,entertainment,11238,Y. Adult,NY,Brooklyn
+721,722,50,F,homemaker,17331,M. Adult,PA,Hanover
+722,723,26,M,executive,94403,Y. Adult,CA,San Mateo
+723,724,31,M,executive,40243,Y. Adult,KY,Louisville
+724,725,21,M,student,91711,Y. Adult,CA,Claremont
+725,726,25,F,administrator,80538,Y. Adult,CO,Loveland
+726,727,25,M,student,78741,Y. Adult,TX,Austin
+727,728,58,M,executive,94306,M. Adult,CA,Palo Alto
+728,729,19,M,student,56567,Y. Adult,MN,New York Mills
+729,730,31,F,scientist,32114,Y. Adult,FL,Daytona Beach
+730,731,41,F,educator,70403,M. Adult,LA,Hammond
+731,732,28,F,other,98405,Y. Adult,WA,Tacoma
+732,733,44,F,other,60630,M. Adult,IL,Chicago
+733,734,25,F,other,63108,Y. Adult,MO,Saint Louis
+734,735,29,F,healthcare,85719,Y. Adult,AZ,Tucson
+735,736,48,F,writer,94618,M. Adult,CA,Oakland
+736,737,30,M,programmer,98072,Y. Adult,WA,Woodinville
+737,738,35,M,technician,95403,Y. Adult,CA,Santa Rosa
+738,739,35,M,technician,73162,Y. Adult,OK,Oklahoma City
+739,740,25,F,educator,22206,Y. Adult,VA,Arlington
+740,741,25,M,writer,63108,Y. Adult,MO,Saint Louis
+741,742,35,M,student,29210,Y. Adult,SC,Columbia
+742,743,31,M,programmer,92660,Y. Adult,CA,Newport Beach
+743,744,35,M,marketing,47024,Y. Adult,IN,Laurel
+744,745,42,M,writer,55113,M. Adult,MN,Saint Paul
+745,746,25,M,engineer,19047,Y. Adult,PA,Langhorne
+746,747,19,M,other,93612,Y. Adult,CA,Clovis
+747,748,28,M,administrator,94720,Y. Adult,CA,Berkeley
+748,749,33,M,other,80919,Y. Adult,CO,Colorado Springs
+749,750,28,M,administrator,32303,Y. Adult,FL,Tallahassee
+750,751,24,F,other,90034,Y. Adult,CA,Los Angeles
+751,752,60,M,retired,21201,Adult,MD,Baltimore
+752,753,56,M,salesman,91206,M. Adult,CA,Glendale
+753,754,59,F,librarian,62901,M. Adult,IL,Carbondale
+754,755,44,F,educator,97007,M. Adult,OR,Beaverton
+755,756,30,F,none,90247,Y. Adult,CA,Gardena
+756,757,26,M,student,55104,Y. Adult,MN,Saint Paul
+757,758,27,M,student,53706,Y. Adult,WI,Madison
+758,759,20,F,student,68503,Y. Adult,NE,Lincoln
+759,760,35,F,other,14211,Y. Adult,NY,Buffalo
+760,761,17,M,student,97302,Y. Adult,OR,Salem
+761,762,32,M,administrator,95050,Y. Adult,CA,Santa Clara
+762,763,27,M,scientist,02113,Y. Adult,MA,Boston
+763,764,27,F,educator,62903,Y. Adult,IL,Carbondale
+764,765,31,M,student,33066,Y. Adult,FL,Pompano Beach
+765,766,42,M,other,10960,M. Adult,NY,Nyack
+766,767,70,M,engineer,00000,Adult,OTHER,OTHER
+767,768,29,M,administrator,12866,Y. Adult,NY,Saratoga Springs
+768,769,39,M,executive,06927,Y. Adult,CT,Stamford
+769,770,28,M,student,14216,Y. Adult,NY,Buffalo
+770,771,26,M,student,15232,Y. Adult,PA,Pittsburgh
+771,772,50,M,writer,27105,M. Adult,NC,Winston Salem
+772,773,20,M,student,55414,Y. Adult,MN,Minneapolis
+773,774,30,M,student,80027,Y. Adult,CO,Louisville
+774,775,46,M,executive,90036,M. Adult,CA,Los Angeles
+775,776,30,M,librarian,51157,Y. Adult,OTHER,OTHER
+776,777,63,M,programmer,01810,Adult,MA,Andover
+777,778,34,M,student,01960,Y. Adult,MA,Peabody
+778,779,31,M,student,K7L5J,Y. Adult,OTHER,OTHER
+779,780,49,M,programmer,94560,M. Adult,CA,Newark
+780,781,20,M,student,48825,Y. Adult,MI,East Lansing
+781,782,21,F,artist,33205,Y. Adult,OTHER,OTHER
+782,783,30,M,marketing,77081,Y. Adult,TX,Houston
+783,784,47,M,administrator,91040,M. Adult,CA,Sunland
+784,785,32,M,engineer,23322,Y. Adult,VA,Chesapeake
+785,786,36,F,engineer,01754,Y. Adult,MA,Maynard
+786,787,18,F,student,98620,Y. Adult,WA,Goldendale
+787,788,51,M,administrator,05779,M. Adult,OTHER,OTHER
+788,789,29,M,other,55420,Y. Adult,MN,Minneapolis
+789,790,27,M,technician,80913,Y. Adult,CO,Colorado Springs
+790,791,31,M,educator,20064,Y. Adult,DC,Washington
+791,792,40,M,programmer,12205,M. Adult,NY,Albany
+792,793,22,M,student,85281,Y. Adult,AZ,Tempe
+793,794,32,M,educator,57197,Y. Adult,SD,Sioux Falls
+794,795,30,M,programmer,08610,Y. Adult,NJ,Trenton
+795,796,32,F,writer,33755,Y. Adult,FL,Clearwater
+796,797,44,F,other,62522,M. Adult,IL,Decatur
+797,798,40,F,writer,64131,M. Adult,MO,Kansas City
+798,799,49,F,administrator,19716,M. Adult,DE,Newark
+799,800,25,M,programmer,55337,Y. Adult,MN,Burnsville
+800,801,22,M,writer,92154,Y. Adult,CA,San Diego
+801,802,35,M,administrator,34105,Y. Adult,FL,Naples
+802,803,70,M,administrator,78212,Adult,TX,San Antonio
+803,804,39,M,educator,61820,Y. Adult,IL,Champaign
+804,805,27,F,other,20009,Y. Adult,DC,Washington
+805,806,27,M,marketing,11217,Y. Adult,NY,Brooklyn
+806,807,41,F,healthcare,93555,M. Adult,CA,Ridgecrest
+807,808,45,M,salesman,90016,M. Adult,CA,Los Angeles
+808,809,50,F,marketing,30803,M. Adult,GA,Avera
+809,810,55,F,other,80526,M. Adult,CO,Fort Collins
+810,811,40,F,educator,73013,M. Adult,OK,Edmond
+811,812,22,M,technician,76234,Y. Adult,TX,Decatur
+812,813,14,F,student,02136,Y. Adult,MA,Hyde Park
+813,814,30,M,other,12345,Y. Adult,NY,Schenectady
+814,815,32,M,other,28806,Y. Adult,NC,Asheville
+815,816,34,M,other,20755,Y. Adult,MD,Fort George G Meade
+816,817,19,M,student,60152,Y. Adult,IL,Marengo
+817,818,28,M,librarian,27514,Y. Adult,NC,Chapel Hill
+818,819,59,M,administrator,40205,M. Adult,KY,Louisville
+819,820,22,M,student,37725,Y. Adult,TN,Dandridge
+820,821,37,M,engineer,77845,Y. Adult,TX,College Station
+821,822,29,F,librarian,53144,Y. Adult,WI,Kenosha
+822,823,27,M,artist,50322,Y. Adult,IA,Urbandale
+823,824,31,M,other,15017,Y. Adult,PA,Bridgeville
+824,825,44,M,engineer,05452,M. Adult,VT,Essex Junction
+825,826,28,M,artist,77048,Y. Adult,TX,Houston
+826,827,23,F,engineer,80228,Y. Adult,CO,Denver
+827,828,28,M,librarian,85282,Y. Adult,AZ,Tempe
+828,829,48,M,writer,80209,M. Adult,CO,Denver
+829,830,46,M,programmer,53066,M. Adult,WI,Oconomowoc
+830,831,21,M,other,33765,Y. Adult,FL,Clearwater
+831,832,24,M,technician,77042,Y. Adult,TX,Houston
+832,833,34,M,writer,90019,Y. Adult,CA,Los Angeles
+833,834,26,M,other,64153,Y. Adult,MO,Kansas City
+834,835,44,F,executive,11577,M. Adult,NY,Roslyn Heights
+835,836,44,M,artist,10018,M. Adult,NY,New York
+836,837,36,F,artist,55409,Y. Adult,MN,Minneapolis
+837,838,23,M,student,01375,Y. Adult,MA,Sunderland
+838,839,38,F,entertainment,90814,Y. Adult,CA,Long Beach
+839,840,39,M,artist,55406,Y. Adult,MN,Minneapolis
+840,841,45,M,doctor,47401,M. Adult,IN,Bloomington
+841,842,40,M,writer,93055,M. Adult,OTHER,OTHER
+842,843,35,M,librarian,44212,Y. Adult,OH,Brunswick
+843,844,22,M,engineer,95662,Y. Adult,CA,Orangevale
+844,845,64,M,doctor,97405,Adult,OR,Eugene
+845,846,27,M,lawyer,47130,Y. Adult,IN,Jeffersonville
+846,847,29,M,student,55417,Y. Adult,MN,Minneapolis
+847,848,46,M,engineer,02146,M. Adult,OTHER,OTHER
+848,849,15,F,student,25652,Y. Adult,WV,Whitman
+849,850,34,M,technician,78390,Y. Adult,TX,Taft
+850,851,18,M,other,29646,Y. Adult,SC,Greenwood
+851,852,46,M,administrator,94086,M. Adult,CA,Sunnyvale
+852,853,49,M,writer,40515,M. Adult,KY,Lexington
+853,854,29,F,student,55408,Y. Adult,MN,Minneapolis
+854,855,53,M,librarian,04988,M. Adult,ME,Unity
+855,856,43,F,marketing,97215,M. Adult,OR,Portland
+856,857,35,F,administrator,V1G4L,Y. Adult,OTHER,OTHER
+857,858,63,M,educator,09645,Adult,AE,Fpo
+858,859,18,F,other,06492,Y. Adult,CT,Wallingford
+859,860,70,F,retired,48322,Adult,MI,West Bloomfield
+860,861,38,F,student,14085,Y. Adult,NY,Lake View
+861,862,25,M,executive,13820,Y. Adult,NY,Oneonta
+862,863,17,M,student,60089,Y. Adult,IL,Buffalo Grove
+863,864,27,M,programmer,63021,Y. Adult,MO,Ballwin
+864,865,25,M,artist,11231,Y. Adult,NY,Brooklyn
+865,866,45,M,other,60302,M. Adult,IL,Oak Park
+866,867,24,M,scientist,92507,Y. Adult,CA,Riverside
+867,868,21,M,programmer,55303,Y. Adult,MN,Anoka
+868,869,30,M,student,10025,Y. Adult,NY,New York
+869,870,22,M,student,65203,Y. Adult,MO,Columbia
+870,871,31,M,executive,44648,Y. Adult,OH,Massillon
+871,872,19,F,student,74078,Y. Adult,OK,Stillwater
+872,873,48,F,administrator,33763,M. Adult,FL,Clearwater
+873,874,36,M,scientist,37076,Y. Adult,TN,Hermitage
+874,875,24,F,student,35802,Y. Adult,AL,Huntsville
+875,876,41,M,other,20902,M. Adult,MD,Silver Spring
+876,877,30,M,other,77504,Y. Adult,TX,Pasadena
+877,878,50,F,educator,98027,M. Adult,WA,Issaquah
+878,879,33,F,administrator,55337,Y. Adult,MN,Burnsville
+879,880,13,M,student,83702,Y. Adult,ID,Boise
+880,881,39,M,marketing,43017,Y. Adult,OH,Dublin
+881,882,35,M,engineer,40503,Y. Adult,KY,Lexington
+882,883,49,M,librarian,50266,M. Adult,IA,West Des Moines
+883,884,44,M,engineer,55337,M. Adult,MN,Burnsville
+884,885,30,F,other,95316,Y. Adult,CA,Denair
+885,886,20,M,student,61820,Y. Adult,IL,Champaign
+886,887,14,F,student,27249,Y. Adult,NC,Gibsonville
+887,888,41,M,scientist,17036,M. Adult,PA,Hummelstown
+888,889,24,M,technician,78704,Y. Adult,TX,Austin
+889,890,32,M,student,97301,Y. Adult,OR,Salem
+890,891,51,F,administrator,03062,M. Adult,NH,Nashua
+891,892,36,M,other,45243,Y. Adult,OH,Cincinnati
+892,893,25,M,student,95823,Y. Adult,CA,Sacramento
+893,894,47,M,educator,74075,M. Adult,OK,Stillwater
+894,895,31,F,librarian,32301,Y. Adult,FL,Tallahassee
+895,896,28,M,writer,91505,Y. Adult,CA,Burbank
+896,897,30,M,other,33484,Y. Adult,FL,Delray Beach
+897,898,23,M,homemaker,61755,Y. Adult,IL,Mackinaw
+898,899,32,M,other,55116,Y. Adult,MN,Saint Paul
+899,900,60,M,retired,18505,Adult,PA,Scranton
+900,901,38,M,executive,L1V3W,Y. Adult,OTHER,OTHER
+901,902,45,F,artist,97203,M. Adult,OR,Portland
+902,903,28,M,educator,20850,Y. Adult,MD,Rockville
+903,904,17,F,student,61073,Y. Adult,IL,Roscoe
+904,905,27,M,other,30350,Y. Adult,GA,Atlanta
+905,906,45,M,librarian,70124,M. Adult,LA,New Orleans
+906,907,25,F,other,80526,Y. Adult,CO,Fort Collins
+907,908,44,F,librarian,68504,M. Adult,NE,Lincoln
+908,909,50,F,educator,53171,M. Adult,WI,Somers
+909,910,28,M,healthcare,29301,Y. Adult,SC,Spartanburg
+910,911,37,F,writer,53210,Y. Adult,WI,Milwaukee
+911,912,51,M,other,06512,M. Adult,CT,East Haven
+912,913,27,M,student,76201,Y. Adult,TX,Denton
+913,914,44,F,other,08105,M. Adult,NJ,Camden
+914,915,50,M,entertainment,60614,M. Adult,IL,Chicago
+915,916,27,M,engineer,N2L5N,Y. Adult,OTHER,OTHER
+916,917,22,F,student,20006,Y. Adult,DC,Washington
+917,918,40,M,scientist,70116,M. Adult,LA,New Orleans
+918,919,25,M,other,14216,Y. Adult,NY,Buffalo
+919,920,30,F,artist,90008,Y. Adult,CA,Los Angeles
+920,921,20,F,student,98801,Y. Adult,WA,Wenatchee
+921,922,29,F,administrator,21114,Y. Adult,MD,Crofton
+922,923,21,M,student,E2E3R,Y. Adult,OTHER,OTHER
+923,924,29,M,other,11753,Y. Adult,NY,Jericho
+924,925,18,F,salesman,49036,Y. Adult,MI,Coldwater
+925,926,49,M,entertainment,01701,M. Adult,MA,Framingham
+926,927,23,M,programmer,55428,Y. Adult,MN,Minneapolis
+927,928,21,M,student,55408,Y. Adult,MN,Minneapolis
+928,929,44,M,scientist,53711,M. Adult,WI,Madison
+929,930,28,F,scientist,07310,Y. Adult,NJ,Jersey City
+930,931,60,M,educator,33556,Adult,FL,Odessa
+931,932,58,M,educator,06437,M. Adult,CT,Guilford
+932,933,28,M,student,48105,Y. Adult,MI,Ann Arbor
+933,934,61,M,engineer,22902,Adult,VA,Charlottesville
+934,935,42,M,doctor,66221,M. Adult,KS,Overland Park
+935,936,24,M,other,32789,Y. Adult,FL,Winter Park
+936,937,48,M,educator,98072,M. Adult,WA,Woodinville
+937,938,38,F,technician,55038,Y. Adult,MN,Hugo
+938,939,26,F,student,33319,Y. Adult,FL,Fort Lauderdale
+939,940,32,M,administrator,02215,Y. Adult,MA,Boston
+940,941,20,M,student,97229,Y. Adult,OR,Portland
+941,942,48,F,librarian,78209,M. Adult,TX,San Antonio
+942,943,22,M,student,77841,Y. Adult,TX,College Station
