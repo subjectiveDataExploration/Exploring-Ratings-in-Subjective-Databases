@@ -1,0 +1,43 @@
+MovieLens
+
+1. Animation movies from the 90's
+
+2. Comedy movies from the 70's
+
+3. Adventure movies from the 80's
+
+4. Documentary movies from the 60's
+
+5. Action movies from the 90's
+
+6. Young Adults from AZ
+
+7. Adults artists from CA
+
+8. programmers from Mountain view
+
+9. Female students from NY
+
+10. Male engineers from TX
+
+Yelp
+
+1. middle eastern or north african adult males
+
+2. middle aged white females
+
+3. hispanic, latino, or spanish origin young adults
+
+4. asian middle aged females
+
+5. asian young adults
+
+6. Japanese restaurants from CA
+
+7.  Seafood restaurants with trendy ambience
+
+8. casual Asian Fusion restaurants
+
+9. Southern restaurants with free wifi
+
+10. American traditional restaurants from Las Vegas
