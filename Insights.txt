@@ -9,3 +9,15 @@ MovieLens (source: https://www.kaggle.com/yoghurtpatil/movielens-100k-data-analy
 4. Women reviewers have given a higher rating score for romance movies compared with men reviewers.
 
 5. Men reviewers have given a higher rating score for Sci-Fi movies compared with women reviewers.
+
+Yelp (source: https://www.kaggle.com/vksbhandary/exploring-yelp-reviews-dataset, https://www.kaggle.com/ambarish/a-very-extensive-data-analysis-of-yelp)
+
+1. The average rating score of restaurants from Las Vegas is the highest among all cities. 
+
+2. The Japanese restaurants' average food score is greater than that of Traditional American restaurants.
+
+3. The average service score of Indian restaurants is greater than that of Chinese restaurants.
+
+4. The average rating score of young adults is higher than that of adults.
+
+5. Young adults have gave Bars the highest rating score among all cuisine types.  
